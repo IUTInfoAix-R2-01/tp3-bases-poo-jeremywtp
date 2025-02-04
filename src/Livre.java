@@ -17,6 +17,9 @@ public class Livre {
     public int getQuantity() {
         return quantity;
     }
+    public void setQuantity(int qty) {
+        this.quantity = qty;
+    }
     public String toString() {
         return "Nom : " + name + ", Prix : " + price + "€, Quantité : " + quantity;
     }
