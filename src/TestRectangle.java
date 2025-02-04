@@ -8,7 +8,7 @@ public class TestRectangle {
 
         r1.setLength(5.6f);
         r1.setWidth(7.8f);
-        System.out.println(r1); 
+        System.out.println(r1);  
         System.out.println("\nlongueur est: " + r1.getLength());
         System.out.println("largeur est: " + r1.getWidth());
 
